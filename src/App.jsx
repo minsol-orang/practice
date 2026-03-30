@@ -20,6 +20,7 @@ function App() {
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
             <p>hello</p>
+            <div>plz im hungry</div>
           </p>
         </div>
         <button
